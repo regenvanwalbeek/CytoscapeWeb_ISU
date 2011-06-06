@@ -1,0 +1,23 @@
+//Tyler
+//4-13-11
+    Out of time - it seems we want a function like the one on line 702-807
+
+    Working on ability to upload the file to Cytoscape Web and possibly display the file's contents
+    but not in any special manner, just plain reading in.
+
+
+
+//Will
+//4-7-11
+    Added in the extra node data tab, code is located line 3040-3057
+
+
+
+//Tyler
+//4-7-11
+    Uploaded Cytoscape Web to Kodingen...it works!
+
+
+//Will
+//4/7/2011
+//Test

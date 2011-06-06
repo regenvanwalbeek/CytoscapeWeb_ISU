@@ -1,0 +1,8 @@
+<list>
+    <graph name="TestNet.xgmml">
+    </graph>
+    <graph name="ECOLI_GLYCOLYSIS.xgmml">
+        <data>C8_simple.txt</data>
+        <data>Probe_to_ecoliGene_map_MG1655.txt</data>
+    </graph>
+</list>
